@@ -22,12 +22,12 @@ https://github.com/Himanshu-Atri/Age_gender_detector/edit/main/gui_model.py
 
 ## Sample Outputs:
 ### Sample Output 1:
-![Sample Output 1](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-1.PNG)
+![Sample Output 1](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-1.png)
 ### Sample Output 2:
-![Sample Output 2](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-2.PNG)
+![Sample Output 2](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-2.png)
 ### Sample Output 3:
-![Sample Output 3](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-3.PNG)
+![Sample Output 3](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-3.png)
 ### Sample Output 4:
-![Sample Output 4](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-4.PNG)
+![Sample Output 4](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-4.png)
 ### Sample Output 5:
-![Sample Output 5](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-5.PNG)
+![Sample Output 5](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-5.png)
