@@ -13,7 +13,7 @@ https://github.com/Himanshu-Atri/Age_gender_detector/edit/main/gui_model.py
 1. Clone this repository
 2. Download the dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new). 
 3. Extract the dataset to your repository folder.
-4. Open the [Model jupyter notebool](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Model.ipynb)
+4. Open the [Model jupyter notebool](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/age-and-gender-detector-ipynb%20(7).ipynb)
 5. Run this notebook
 6. Run the [gui.py](https://github.com/Himanshu-Atri/Age_gender_detector/edit/main/gui_model.py) file
 7. Upload the Image you want to detect
@@ -22,12 +22,12 @@ https://github.com/Himanshu-Atri/Age_gender_detector/edit/main/gui_model.py
 
 ## Sample Outputs:
 ### Sample Output 1:
-![Sample Output 1](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/output-1.PNG)
+![Sample Output 1](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-1.PNG)
 ### Sample Output 2:
-![Sample Output 2](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/output-2.PNG)
+![Sample Output 2](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-2.PNG)
 ### Sample Output 3:
-![Sample Output 3](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/output-3.PNG)
+![Sample Output 3](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-3.PNG)
 ### Sample Output 4:
-![Sample Output 4](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/output-4.PNG)
+![Sample Output 4](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-4.PNG)
 ### Sample Output 5:
-![Sample Output 5](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/output-5.PNG)
+![Sample Output 5](https://github.com/Himanshu-Atri/Age_gender_detector/blob/main/output-5.PNG)
